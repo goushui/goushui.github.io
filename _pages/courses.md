@@ -11,6 +11,19 @@ My page is inspired by [Abigale Kim's](https://abigalekim.github.io/courses/) co
 
 Typical disclaimer that opinions are mine and do not represent the opinions of my employer/college.
 
+## Fall 2025
+
+15-213 Intro to Computer Systems (w/ Phillip Gibbons & Brian Railing)
+15-259 Probability & Computing (w/ Feras Saad & Weina Wang)
+17-363 Programming Language Pragmatics (w/ Jonathan Aldrich)
+76-270 Writing for the Professions (w/ Alan Kohler)
+85-170 Foundations of Brain and Behavior (w/ Jonathan Tsay)
+
+### Reflection
+A proper peflection to be shared at the end of this semester. 
+So far, I've been loving my classes, especially **17-363** and **15-213**
+
+
 ## Spring 2025
 
 21-266 Vector Calc for CS (w/ Clive Newstead)  
