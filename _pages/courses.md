@@ -13,10 +13,10 @@ Typical disclaimer that opinions are mine and do not represent the opinions of m
 
 ## Fall 2025
 
-15-213 Intro to Computer Systems (w/ Phillip Gibbons & Brian Railing)
-15-259 Probability & Computing (w/ Feras Saad & Weina Wang)
-17-363 Programming Language Pragmatics (w/ Jonathan Aldrich)
-76-270 Writing for the Professions (w/ Alan Kohler)
+15-213 Intro to Computer Systems (w/ Phillip Gibbons & Brian Railing)  
+15-259 Probability & Computing (w/ Feras Saad & Weina Wang)  
+17-363 Programming Language Pragmatics (w/ Jonathan Aldrich)  
+76-270 Writing for the Professions (w/ Alan Kohler)  
 85-170 Foundations of Brain and Behavior (w/ Jonathan Tsay)
 
 ### Reflection
