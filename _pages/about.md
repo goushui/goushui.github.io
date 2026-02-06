@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm studying Computer Science at Carnegie Mellon University (CMU) and minoring in Neural Computation.
-Currently I am doing research using computational models and AI to study human and animal behavior.
+I'm studying Computer Science at Carnegie Mellon University (CMU) with a Machine Learning concentration.
 
-Contact: BraydenK@andrew.cmu.edu
+
+Contact: jli9@andrew.cmu.edu
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lexicon of Rabbinic Greek
-description: A lexicon of words used in Hebrew and Rabbinic lit. that were derived from Greek.
+title: 3D Reconstruction
+description: Pipeline that creates labeled 3D meshes from multiple image views.
 img:
 importance: 1
 category: fun
 ---
 
-You can find the project here: [Lexicon of Rabbinic Greek](https://braydenko.github.io/Jastrow-Klein-Dicts/)
+Work in progress
