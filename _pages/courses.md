@@ -9,8 +9,8 @@ nav_order: 3
 
 My page is inspired by [Abigale Kim's](https://abigalekim.github.io/courses/) courses page.
 
-
 ## Relevant Coursework
+
 10-623: Generative AI
 10-403: Deep Reinforcement Learning
 10-623: Generative AI
@@ -25,6 +25,7 @@ My page is inspired by [Abigale Kim's](https://abigalekim.github.io/courses/) co
 05-391: Designing Human-Centered Software
 15-150: Functional Programming
 36-225: Probability
+
 <!-- - 10-714: Deep Learning Systems
 - 15-740: Computer Architecture
 - 15-697: Graduate Reading and Research
