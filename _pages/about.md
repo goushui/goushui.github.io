@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ἀεὶ ὁ θεὸς ὁ μέγας γεωμετρεῖ - The Great God always geometrizes
+subtitle:
 
 profile:
   align: right
